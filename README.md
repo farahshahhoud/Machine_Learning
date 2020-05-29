@@ -8,8 +8,8 @@ Course MMO (ИУ5И-22М)
 2.1 [PDF file lab2](https://github.com/farahshahhoud/Machine_Learning/blob/master/Second_lab.pdf).   
 2.2. [ipynb file lab2](https://github.com/farahshahhoud/Machine_Learning/blob/master/Second_lab.ipynb).   
 2. Third Labratory work:  
-2.1 [PDF file lab3](https://github.com/farahshahhoud/Machine_Learning/blob/master/Second_lab.pdf).   
-2.2. [ipynb file lab3](https://github.com/farahshahhoud/Machine_Learning/blob/master/Lab3MMO.pdf).   
+2.1 [PDF file lab3](https://github.com/farahshahhoud/Machine_Learning/blob/master/Lab3MMO.pdf).   
+2.2. [ipynb file lab3](https://github.com/farahshahhoud/Machine_Learning/blob/master/%D0%9B%D0%B0%D0%B13.ipynb).   
   
 ## Control Work:
 1. First Control Work:  
