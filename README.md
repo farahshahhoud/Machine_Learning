@@ -18,3 +18,7 @@ Course MMO (ИУ5И-22М)
 1. Second Control Work:  
 1.1 [ipynb file PK2](https://github.com/farahshahhoud/Machine_Learning/blob/master/PK2.ipynb).   
 1.2 [pdf file PK2](https://github.com/farahshahhoud/Machine_Learning/blob/master/PK2.pdf).
+
+## Homework:
+1. [ipynb file DZ](https://github.com/farahshahhoud/Machine_Learning/blob/master/%D0%94%D0%97.ipynb).   
+2. [pdf file DZ](https://github.com/farahshahhoud/Machine_Learning/blob/master/%D0%94%D0%97.pdf).
