@@ -10,9 +10,12 @@ Course MMO (ИУ5И-22М)
 3. Third Labratory work:  
 3.1 [PDF file lab3](https://github.com/farahshahhoud/Machine_Learning/blob/master/Lab3MMO.pdf).   
 3.2. [ipynb file lab3](https://github.com/farahshahhoud/Machine_Learning/blob/master/%D0%9B%D0%B0%D0%B13.ipynb).   
-4. Third Labratory work:  
+4. Fourth Labratory work:  
 4.1 [PDF file lab4](https://github.com/farahshahhoud/Machine_Learning/blob/master/Labratory4.pdf).   
 4.2. [ipynb file lab4](https://github.com/farahshahhoud/Machine_Learning/blob/master/Labratory4.ipynb).  
+4. Fifth Labratory work:  
+4.1 [PDF file lab5](https://github.com/farahshahhoud/Machine_Learning/blob/master/Labratory5.pdf).   
+4.2. [ipynb file lab5](https://github.com/farahshahhoud/Machine_Learning/blob/master/Labratory5.ipynb).  
   
 ## Control Work:
 1. First Control Work:  
